@@ -14,7 +14,7 @@ This lab was definitley easier than the lab before. Editing the stlye.css for th
 <img src="https://cdn12.picryl.com/photo/2016/12/31/glass-zoom-icon-science-technology-ac81ae-1024.jpg" width="400" >
 </div>
 
-I used <a href="https://coolors.co/">this website</a> to pick out my new colors. I wanted to aslo incorperate some brown. I mean look how good it looks on this Blue-winged kookaburra at the <a href="https://www.zoo-landau.de/">Landau Zoo</a> in Germany.
+I used <a href="https://coolors.co/">this website</a> to pick out my new colors. I wanted to also incorperate some brown. I mean look how good it looks on this Blue-winged kookaburra at the <a href="https://www.zoo-landau.de/">Landau Zoo</a> in Germany.
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Dacelo_leachii_Zoo_Landau.JPG" width="400" >
