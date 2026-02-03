@@ -3,6 +3,7 @@ layout: post
 title: "Introduction Post"
 categories: misc
 comments: false
+author: Sam CT
 ---
 
 This was a very tough set up for this blog. I had alot of issues installing Ruby. I was able to download version 2 but had issues with bundle install. I then had to install Ruby version 3 which I also had issues with. How it made me feel. 
