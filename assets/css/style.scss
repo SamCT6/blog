@@ -5,3 +5,17 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+
+  .site-header{
+    background-color: lightblue;
+  }
+ 
+  .h-card{
+    background-color: lightblue;
+  }
+
+  .page-content{
+    color: navy;
+
+  }
