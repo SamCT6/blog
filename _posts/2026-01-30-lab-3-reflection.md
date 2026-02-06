@@ -6,7 +6,6 @@ comments: false
 author: Sam CT
 ---
 
-What parts were new to you? What parts did you struggle with? What parts still do not make sense? What are you looking forward to?
 
 This lab was definitley easier than the lab before. Editing the stlye.css for the md that was already created was a new concept. Having to find the areas in the code I wanted to edit proved interesting. It took alot of investigative work.
 
