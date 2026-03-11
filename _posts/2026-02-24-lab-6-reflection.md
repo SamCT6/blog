@@ -25,14 +25,14 @@ Here are the user stories I came up with:
 </li>
 </ul>
 
-<div align = "center">
-<img src="/assets/GrocerySchema.png" width="400" >
+<div align="center">
+<img src="{{ "/assets/images/GrocerySchema.png" | relative_url }}" alt="Schema of the SIRIUS project-space1" height="480">
 </div>
 
 
 
 <div align="center">
-<img src="/assets/GroceryStoreLucidChart.png" width="400" >
+<img src="{{ "/assets/images/GroceryStoreLucidChart.png" | relative_url }}" alt="Schema of the SIRIUS project-space1" height="480">
 </div>
 
 I do like how the data models turned out. The Lucid Chart was designed based on how I believe the system would work. I had issues with the Schema just labeling and assigning primary and foreign keys but after some trial and error I am happy with how it turned out.
