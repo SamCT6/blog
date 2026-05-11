@@ -6,6 +6,9 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+  img {
+    outline: 5px solid rgb(0, 0, 0);
+  }
 
   header.site-header{
     background-color: lightblue;
